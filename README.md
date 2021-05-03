@@ -16,7 +16,7 @@ ic: https://junkiyoshi.com/insta20180109 & https://junkiyoshi.com/openframeworks
 for (int x = ofGetWidth() * 0; x < ofGetWidth(); x += 1) {
                 noise_value = ofMap(ofNoise(x * **lines**, y * **lines**, ofGetFrameNum() * **lines**), 0, 1, -50, 50);
                 ofDrawLine(x, y + noise_value, x + 5, y + noise_value);
-
+<br>
 I created float values for the **lines** and this manipulates the height of the waves it would create, as well as the speed it's at. I then used the keyPressed function (switch key) and added the values for each case from 1-9. for example: 
 <br> 
 switch (key) {
