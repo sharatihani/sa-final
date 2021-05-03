@@ -19,7 +19,9 @@ Visuals will correlate with the tempo
 <br> 
 <br>
 Further Inspiration: Line/Contour art!
+<br>
 <img src="https://images.wallpaperscraft.com/image/sun_art_geometric_144398_2780x2780.jpg" width="320" title="final1">
+<br>
 <img src="https://img.freepik.com/free-vector/topographic-pattern-design-with-shadows_1017-14333.jpg" width="320" title="final2">
 
 ## Process
