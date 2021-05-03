@@ -36,7 +36,13 @@ switch (key) {
  <br> 
 the **lines** manipulate height and speed (values 0 - 0.03) **flow** manipulates the circle in the middle (values 0 - 0.009) **pulse** manipulates the circle's radius across time (1 - 0.4) **layers** manipulates the amount of circles drawn (1-9)
 
-<br> 
-
 ## Outcome
 I think I like how the final product turned out. I feel like it brought out the intention a lot clearer than my previous assignment and the audio helped to do that as well. I like how the shapes flowed and the audio reactive circles. However, I wish I had more time to work on the composition itself. Although it was pretty close to what I envisioned it to be, I would love to experiment more with placing maybe multiple circles on screen and maybe even adding in other shapes if that worked. 
+
+## Gallery 
+
+<p align="center">
+  <img src="sa-final/bin/data/final01.jpg" width="350" title="final1">
+  <img src="sa-final/bin/data/final02.jpg" width="350" title="motion2">
+  <img src="sa-final/bin/data/final03.jpg" width="350" title="motion3">
+</p>
