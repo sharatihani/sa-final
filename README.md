@@ -5,6 +5,16 @@ https://youtu.be/urmnSL6rA4g
 
 ## Initial Idea
 For my final assignment, I decided to work off my previous motion assignment by sticking to the same theme; the idea was to explore geometric shapes, such as straight lines and circles and how the feeling can be changed through adding slight modulations - for example, on the circles, using noise to enhance the shapes. I wanted the composition to start off purely made of lines and circles with no modulations first. It would ideally start to be more "flowy" over time and eventually become irregular and imperfect (pretty much the opposite of geometric shapes.) I will take my previous assignment as inspiration and use noise in order to modulate the shapes. 
+<br>
+piano piece: Beethoven - Moonlight Sonata (three main sections)
+<br>
+adagio - at ease/slowly
+<br>
+allegretto - moderately fast
+<br>
+presto - very fast 
+<br> 
+Visuals will correlate with the tempo
 
 ## Process
 I started by searching for different ways I could create what I wanted. The first thing I did was made an audio reactive shape (circle) to stay consistent throughout the sketch. https://youtu.be/IiTsE7P-GDs. The radius is determined by the bands, as well as the smoothness : fftSmooth[i] *= 0.5f; and goes up by *150. I wanted the circles to react in a relatively fast pace so I set the fftSmooth to 0.5f.
