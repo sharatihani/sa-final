@@ -6,6 +6,7 @@ https://youtu.be/urmnSL6rA4g
 ## Initial Idea
 For my final assignment, I decided to work off my previous motion assignment by sticking to the same theme; the idea was to explore geometric shapes, such as straight lines and circles and how the feeling can be changed through adding slight modulations - for example, on the circles, using noise to enhance the shapes. I wanted the composition to start off purely made of lines and circles with no modulations first. It would ideally start to be more "flowy" over time and eventually become irregular and imperfect (pretty much the opposite of geometric shapes.) I will take my previous assignment as inspiration and use noise in order to modulate the shapes. 
 <br>
+<br>
 piano piece: Beethoven - Moonlight Sonata (three main sections)
 <br>
 adagio - at ease/slowly
