@@ -45,7 +45,7 @@ void ofApp::update(){
 void ofApp::draw(){
     
     
-    
+
     float noise_value;
         ofColor color;
         
