@@ -42,7 +42,7 @@ I think I like how the final product turned out. I feel like it brought out the 
 ## Gallery 
 
 <p align="center">
-  <img src="sa-final/bin/data/final01.jpg" width="350" title="final1">
-  <img src="sa-final/bin/data/final02.jpg" width="350" title="motion2">
-  <img src="sa-final/bin/data/final03.jpg" width="350" title="motion3">
+  <img src="sa-final/saFinal/bin/data/final01.png" width="350" title="final1">
+  <img src="sa-final/saFinal/bin/data/final02.png" width="350" title="motion2">
+  <img src="sa-final/saFinal/bin/data/final03.png" width="350" title="motion3">
 </p>
