@@ -19,8 +19,8 @@ Visuals will correlate with the tempo
 <br> 
 <br>
 Further Inspiration: Line/Contour art!
-![image](https://images.wallpaperscraft.com/image/sun_art_geometric_144398_2780x2780.jpg) 
-![image](https://img.freepik.com/free-vector/topographic-pattern-design-with-shadows_1017-14333.jpg) 
+<img src="https://images.wallpaperscraft.com/image/sun_art_geometric_144398_2780x2780.jpg" width="320" title="final1">
+<img src="https://img.freepik.com/free-vector/topographic-pattern-design-with-shadows_1017-14333.jpg" width="320" title="final2">
 
 ## Process
 I started by searching for different ways I could create what I wanted. The first thing I did was made an audio reactive shape (circle) to stay consistent throughout the sketch. https://youtu.be/IiTsE7P-GDs. The radius is determined by the bands, as well as the smoothness : fftSmooth[i] *= 0.5f; and goes up by *150. I wanted the circles to react in a relatively fast pace so I set the fftSmooth to 0.5f.
